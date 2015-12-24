@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://F://shuspider/shuspider.iml" filepath="F://shuspider/shuspider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuspider.iml" filepath="$PROJECT_DIR$/shuspider.iml" />
     </modules>
   </component>
 </project>
