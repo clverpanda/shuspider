@@ -6,14 +6,14 @@ import javax.swing.*;
  * Created by miaol on 2015/12/24 0024.
  */
 public class windowMain {
-    private JTextField textField1;
-    private JPasswordField passwordField1;
-    private JButton 登陆Button;
-    private JTextArea textArea1;
+    private JTextField txtField;
+    private JPasswordField pswField;
+    private JButton btnLogin;
+    private JTextArea textGet;
     private JPanel mainPanel;
     private JPanel Up;
-    private JPanel Middle;
     private JPanel Down;
+    private JTextArea textInfo;
 
     public static void main(String[] args) {
         JFrame frame = new JFrame("测试");
